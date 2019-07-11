@@ -9,10 +9,10 @@
 ## mix, le couteau suisse
 - https://elixir-lang.org/getting-started/mix-otp/introduction-to-mix.html
 
-## start
+## Start
 - https://elixir-lang.org/getting-started/mix-otp/supervisor-and-application.html#starting-applications
 
-## supervisor
+## Supervisor
 - https://elixir-lang.org/getting-started/mix-otp/supervisor-and-application.html
 
 ## Genserver
@@ -22,3 +22,12 @@
 
 ## Les Macros
 - https://elixir-lang.org/getting-started/meta/macros.html
+
+## riak
+- http://erlang.org/doc/man/ets.html
+
+## riak
+- https://docs.riak.com/riak/ts/1.3.0/developing/http/
+
+## solr
+- https://lucene.apache.org/solr/
