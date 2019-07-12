@@ -23,7 +23,7 @@
 ## Les Macros
 - https://elixir-lang.org/getting-started/meta/macros.html
 
-## riak
+## ets
 - http://erlang.org/doc/man/ets.html
 
 ## riak
